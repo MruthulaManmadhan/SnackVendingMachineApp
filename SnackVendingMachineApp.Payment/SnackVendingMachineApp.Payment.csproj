@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="SnackVendingMachine_SnackSelectionAndDisplay">
+      <HintPath>..\..\SnackVendingMachine_SnackSelectionAndDisplay\SnackVendingMachine_SnackSelectionAndDisplay\Snack Vending Machine\bin\Debug\netcoreapp2.1\SnackVendingMachine_SnackSelectionAndDisplay.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

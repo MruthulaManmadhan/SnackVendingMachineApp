@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SnackVendingMachineApp.Payment\SnackVendingMachineApp.Payment.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SnackVendingMachine_SnackSelectionAndDisplay">
+      <HintPath>..\..\SnackVendingMachine_SnackSelectionAndDisplay\SnackVendingMachine_SnackSelectionAndDisplay\Snack Vending Machine\bin\Debug\netcoreapp2.1\SnackVendingMachine_SnackSelectionAndDisplay.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

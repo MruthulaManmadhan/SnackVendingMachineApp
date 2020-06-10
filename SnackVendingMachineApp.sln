@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnackVendingMachineApp.Payment", "SnackVendingMachineApp.Payment\SnackVendingMachineApp.Payment.csproj", "{3F718218-E683-4308-8AE8-A9843C8A7DC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnackVendingMachineApp", "SnackVendingMachineApp\SnackVendingMachineApp.csproj", "{D23A6C18-2022-46E0-B76B-FE8CBD384F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F718218-E683-4308-8AE8-A9843C8A7DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F718218-E683-4308-8AE8-A9843C8A7DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F718218-E683-4308-8AE8-A9843C8A7DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F718218-E683-4308-8AE8-A9843C8A7DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23A6C18-2022-46E0-B76B-FE8CBD384F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23A6C18-2022-46E0-B76B-FE8CBD384F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23A6C18-2022-46E0-B76B-FE8CBD384F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23A6C18-2022-46E0-B76B-FE8CBD384F52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44DD0498-E5BE-448A-85DA-373A4D6FDA52}
+	EndGlobalSection
+EndGlobal
