@@ -63,7 +63,7 @@ namespace SnackVendingMachine_Payment
                 userMoney.Tens = Convert.ToInt32(Console.ReadLine());
                 total = total - (userMoney.Tens * 10);
             }
-            if (total > 5)
+            if (total >= 5)
             {
                 Console.WriteLine("Enter number of 5 rupees you are paying");
                 userMoney.Fives = Convert.ToInt32(Console.ReadLine());
